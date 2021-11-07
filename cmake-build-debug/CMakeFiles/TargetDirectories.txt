@@ -1,0 +1,8 @@
+D:/CLion/ClionCPPfile/ChartProgram/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLion/ClionCPPfile/ChartProgram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CLion/ClionCPPfile/ChartProgram/Client/cmake_client_output/CMakeFiles/Client.dir
+D:/CLion/ClionCPPfile/ChartProgram/Client/cmake_client_output/CMakeFiles/edit_cache.dir
+D:/CLion/ClionCPPfile/ChartProgram/Client/cmake_client_output/CMakeFiles/rebuild_cache.dir
+D:/CLion/ClionCPPfile/ChartProgram/Server/cmake_server_output/CMakeFiles/Server.dir
+D:/CLion/ClionCPPfile/ChartProgram/Server/cmake_server_output/CMakeFiles/edit_cache.dir
+D:/CLion/ClionCPPfile/ChartProgram/Server/cmake_server_output/CMakeFiles/rebuild_cache.dir
