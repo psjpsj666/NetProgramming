@@ -9,7 +9,7 @@
 char name[NAME_SIZE]="[DEFAULT]"; //用户名
 char Msg[BUF_SIZE];
 
-//读取数据线程
+// 读取数据线程
 void Readthread(SOCKET sockfd)
 {
     int str_Len;
@@ -26,7 +26,7 @@ void Readthread(SOCKET sockfd)
     }
 }
 
-//发送数据线程
+// 发送数据线程
 void SendThread(SOCKET sockfd)
 {
     char Message[BUF_SIZE+NAME_SIZE];
