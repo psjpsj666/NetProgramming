@@ -1,5 +1,5 @@
 # NetProgramming
-Use Window socket to build a chat Server and Client
+Use Windows socket to build a chat Server and Client
 ## Project test
 ```
 //Server
